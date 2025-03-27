@@ -1,0 +1,13 @@
+{
+  "password": "SuperSecret123!",
+  "api_key": "API_KEY_ABCDEFG12345",
+  "secret_key": "SECRET_KEY_XYZ98765",
+  "domains": {
+    "primary": "Test.com",
+    "secondary": "medic-game.com"
+  },
+  "game": {
+    "name": "medic_game",
+    "server": "medic-game.com"
+  }
+} 
